@@ -1,2 +1,6 @@
 # Learning-Chash
+
+So... this is my initial stage learning project...
+Here I learned basics of C# scripting...
+Have fun in using the app :)
  
